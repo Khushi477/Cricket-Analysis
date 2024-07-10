@@ -23,9 +23,11 @@ This project aims to analyze cricket data to derive meaningful insights about pl
 **Web Scraping**
 1. Run the web_scraping_codes on Bright data to scrape cricket data from the website.
 2. The scraped data will be saved as JSON files.
+   
 **Data Preprocessing**
 1. Run the Preprocessing Cricket Analysis.ipynb notebook to preprocess the JSON data.
 2. The processed data will be saved as CSV files.
+
 **Data Analysis & Visualization**
 1. Open PowerBI and import the CSV files from the directory.
 2. Use the provided PowerBI template or create your own dashboards to analyze the data.
