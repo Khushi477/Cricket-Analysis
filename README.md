@@ -13,11 +13,11 @@ This project aims to analyze cricket data to derive meaningful insights about pl
 4. **Final XI Selection**: Based on the analysis, a final XI team was suggested to form a strong lineup against any team in the world.
 
 ## Reguirements
-   Python 3.x
-   Jupyter Notebook
-   PowerBI
-   Excel
-   Bright Data
+Python 3.x, 
+Jupyter Notebook, 
+PowerBI, 
+Excel, 
+Bright Data
 
 ## Usage
 **Web Scraping**
