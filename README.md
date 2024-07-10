@@ -35,14 +35,21 @@ Bright Data
 
 ## Project Structure
 cricket-analysis/
+
 ├── data/
+
 |   ├── web_scraping_codes.ipynb
 │   ├── json/
+
 ├── notebooks/
+
 │   └── data_preprocessing.ipynb
 |   └── csv/
+
 ├── dashboards/
+
 │   └── cricket_analysis.pbix
+
 ├── README.md
 
 
