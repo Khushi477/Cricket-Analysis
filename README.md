@@ -13,9 +13,34 @@ This project aims to analyze cricket data to derive meaningful insights about pl
 4. **Final XI Selection**: Based on the analysis, a final XI team was suggested to form a strong lineup against any team in the world.
 
 ## Reguirements
-Python 3.x
-Jupyter Notebook
-PowerBI
-Excel
-Bright Data
+   Python 3.x
+   Jupyter Notebook
+   PowerBI
+   Excel
+   Bright Data
+
+## Usage
+**Web Scraping**
+1. Run the web_scraping_codes on Bright data to scrape cricket data from the website.
+2. The scraped data will be saved as JSON files.
+**Data Preprocessing**
+1. Run the Preprocessing Cricket Analysis.ipynb notebook to preprocess the JSON data.
+2. The processed data will be saved as CSV files.
+**Data Analysis & Visualization**
+1. Open PowerBI and import the CSV files from the directory.
+2. Use the provided PowerBI template or create your own dashboards to analyze the data.
+3. Explore the dashboards to view insights on batters, bowlers, and the final XI selection.
+
+## Project Structure
+cricket-analysis/
+├── data/
+|   ├── web_scraping_codes.ipynb
+│   ├── json/
+├── notebooks/
+│   └── data_preprocessing.ipynb
+|   └── csv/
+├── dashboards/
+│   └── cricket_analysis.pbix
+├── README.md
+
 
